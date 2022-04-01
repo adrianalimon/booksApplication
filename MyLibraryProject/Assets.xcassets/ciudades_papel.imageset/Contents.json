@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ciudades_papel.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

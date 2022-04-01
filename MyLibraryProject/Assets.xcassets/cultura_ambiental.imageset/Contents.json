@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cultura_ambiental.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

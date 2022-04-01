@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "orgullo_y_prejuicio.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

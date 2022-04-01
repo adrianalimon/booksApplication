@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-MyLibraryProject/Pods-MyLibraryProject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ATGValidator/ATGValidator.framework
+${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework
+${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework
+${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework
+${BUILT_PRODUCTS_DIR}/iCarousel/iCarousel.framework
